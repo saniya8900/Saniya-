@@ -1,2 +1,2 @@
-# Saniya-
+# saniya 
 This is my first git repository 
